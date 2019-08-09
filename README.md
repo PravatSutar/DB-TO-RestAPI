@@ -1,4 +1,4 @@
-# DB-TO-RestAPI
+# DB-TO-RestAPI Using Spring Boot
 The data is not directly exposed from the database to the downstream system directly for the data analytics. Instead it is exposed through Rest API End-Point. The application is developed using Spring Boot
 
 
